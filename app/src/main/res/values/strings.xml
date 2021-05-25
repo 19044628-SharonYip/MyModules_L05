@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Modules_L05</string>
+    <string name="tvData">C322 Data Centre and Cloud Management</string>
+    <string name="tvMob">C346 Mobile App Development</string>
+    <string name="tvServ">C382 IT Service Delivery</string>
+    <string name="btnBack">BACK</string>
+</resources>
